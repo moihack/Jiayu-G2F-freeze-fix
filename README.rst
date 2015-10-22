@@ -34,7 +34,7 @@ Quick remedy
 Just flash your phone's boot partition with already modified and
 provided here boot.img using the fastboot tool from the Android SDK::
 
-    fastboot flash boot boot.img
+    fastboot flash boot images/modified/boot.img
 
 
 Slow remedy
