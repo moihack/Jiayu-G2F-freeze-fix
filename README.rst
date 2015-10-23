@@ -4,8 +4,8 @@ Jiayu G2F WCDMA Android phone freezing bug fix
 There is a bug making the Jiayu G2F phone freeze (hang). This project has
 a remedy and includes a modified version of boot.img fixing that bug.
 
-**WARNING: This applies only to Jiayu G2F WCDMA model with 4Gb RAM,
-Android 4.2.2, kernel 3.4.5, build G2FW-20141027-W-R-V0.3.6
+**WARNING: This applies only to Jiayu G2F WCDMA model with 1Gb RAM,
+4Gb ROM, Android 4.2.2, kernel 3.4.5, build G2FW-20141027-W-R-V0.3.6.
 No other models were tested!**
 
 
